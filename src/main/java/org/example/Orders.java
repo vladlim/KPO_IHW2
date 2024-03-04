@@ -47,6 +47,7 @@ public class Orders {
         for (Dish dish : dishes) {
             System.out.println(dish.getName() + " - " + dish.getPrice());
         }
+
         System.out.println();
     }
 }

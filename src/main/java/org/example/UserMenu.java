@@ -34,7 +34,6 @@ public class UserMenu {
                 scanner.next();
             }
         }
-
         return choice;
     }
 

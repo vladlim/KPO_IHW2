@@ -48,5 +48,7 @@ public class Order {
         return status;
     }
 
-    public void setStatus(String value) { status = value; }
+    public void setStatus(String value) {
+        status = value;
+    }
 }

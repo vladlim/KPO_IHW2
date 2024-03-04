@@ -22,4 +22,5 @@ public class Dish{
     public int getCookingTime() {
         return cookingTime;
     }
+
 }
