@@ -36,6 +36,7 @@ public class Feedback {
                 scanner.next();
             }
         }
+
         return estimation;
     }
 

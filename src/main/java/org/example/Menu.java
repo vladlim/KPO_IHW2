@@ -109,6 +109,7 @@ public class Menu implements Iterable<Dish> {
                 System.out.println("Некорректный формат ввода. Повторите ввод.");
             }
         }
+
         return new Dish(name, price, cookingTime);
     }
 

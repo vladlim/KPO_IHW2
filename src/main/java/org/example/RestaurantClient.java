@@ -33,6 +33,7 @@ public class RestaurantClient {
             }
             order.setStatus("Готов");
         });
+
         thread.start();
     }
 
